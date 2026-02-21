@@ -6,8 +6,7 @@
 Cloud & AI Enthusiast  
 Built this University Syllabus AI Assistant as a hands-on RAG project using LangChain, ChromaDB, and Streamlit.
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/sakthi-28
 - Email: sakthivelvenkat2619@gmail.com
 
 A Retrieval-Augmented Generation (RAG) system for querying university syllabus documents. Upload PDF syllabi and ask questions about course content, requirements, schedules, and policies. The system uses LangChain, ChromaDB, and Streamlit to provide accurate, context-aware answers based solely on your uploaded documents.
